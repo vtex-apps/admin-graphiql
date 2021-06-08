@@ -1,0 +1,8 @@
+{
+    "admin/error.state": "Reintentar",
+    "admin/error.title": "Algo salió mal",
+    "admin/no-app-selected.title": "Escolha uma App",
+    "admin/no-app-selected.state": "Selecione uma App para realizar queries",
+    "admin/layout.title": "GraphQL IDE",
+    "admin/controller.app-picker": "Selecione uma App"
+}
